@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MonsterCardTrading_SWEN_if23b185/1.0.0": {
+        "runtime": {
+          "MonsterCardTrading_SWEN_if23b185.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MonsterCardTrading_SWEN_if23b185/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

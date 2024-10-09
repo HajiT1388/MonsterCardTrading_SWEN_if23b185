@@ -1,0 +1,14 @@
+C:\Users\MosiJoon\Desktop\SWENproj\MonsterCardTrading_SWEN_if23b185\bin\Debug\net8.0\MonsterCardTrading_SWEN_if23b185.exe
+C:\Users\MosiJoon\Desktop\SWENproj\MonsterCardTrading_SWEN_if23b185\bin\Debug\net8.0\MonsterCardTrading_SWEN_if23b185.deps.json
+C:\Users\MosiJoon\Desktop\SWENproj\MonsterCardTrading_SWEN_if23b185\bin\Debug\net8.0\MonsterCardTrading_SWEN_if23b185.runtimeconfig.json
+C:\Users\MosiJoon\Desktop\SWENproj\MonsterCardTrading_SWEN_if23b185\bin\Debug\net8.0\MonsterCardTrading_SWEN_if23b185.dll
+C:\Users\MosiJoon\Desktop\SWENproj\MonsterCardTrading_SWEN_if23b185\bin\Debug\net8.0\MonsterCardTrading_SWEN_if23b185.pdb
+C:\Users\MosiJoon\Desktop\SWENproj\MonsterCardTrading_SWEN_if23b185\obj\Debug\net8.0\MonsterCardTrading_SWEN_if23b185.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MosiJoon\Desktop\SWENproj\MonsterCardTrading_SWEN_if23b185\obj\Debug\net8.0\MonsterCardTrading_SWEN_if23b185.AssemblyInfoInputs.cache
+C:\Users\MosiJoon\Desktop\SWENproj\MonsterCardTrading_SWEN_if23b185\obj\Debug\net8.0\MonsterCardTrading_SWEN_if23b185.AssemblyInfo.cs
+C:\Users\MosiJoon\Desktop\SWENproj\MonsterCardTrading_SWEN_if23b185\obj\Debug\net8.0\MonsterCardTrading_SWEN_if23b185.csproj.CoreCompileInputs.cache
+C:\Users\MosiJoon\Desktop\SWENproj\MonsterCardTrading_SWEN_if23b185\obj\Debug\net8.0\MonsterCardTrading_SWEN_if23b185.dll
+C:\Users\MosiJoon\Desktop\SWENproj\MonsterCardTrading_SWEN_if23b185\obj\Debug\net8.0\refint\MonsterCardTrading_SWEN_if23b185.dll
+C:\Users\MosiJoon\Desktop\SWENproj\MonsterCardTrading_SWEN_if23b185\obj\Debug\net8.0\MonsterCardTrading_SWEN_if23b185.pdb
+C:\Users\MosiJoon\Desktop\SWENproj\MonsterCardTrading_SWEN_if23b185\obj\Debug\net8.0\MonsterCardTrading_SWEN_if23b185.genruntimeconfig.cache
+C:\Users\MosiJoon\Desktop\SWENproj\MonsterCardTrading_SWEN_if23b185\obj\Debug\net8.0\ref\MonsterCardTrading_SWEN_if23b185.dll

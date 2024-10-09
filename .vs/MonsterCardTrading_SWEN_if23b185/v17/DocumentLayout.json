@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|c:\\users\\mosijoon\\desktop\\swenproj\\monstercardtrading_swen_if23b185\\models\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|solutionrelative:models\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|c:\\users\\mosijoon\\desktop\\swenproj\\monstercardtrading_swen_if23b185\\models\\monstercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|solutionrelative:models\\monstercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|c:\\users\\mosijoon\\desktop\\swenproj\\monstercardtrading_swen_if23b185\\models\\spellcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|solutionrelative:models\\spellcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|c:\\users\\mosijoon\\desktop\\swenproj\\monstercardtrading_swen_if23b185\\models\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|solutionrelative:models\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|c:\\users\\mosijoon\\desktop\\swenproj\\monstercardtrading_swen_if23b185\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|c:\\users\\mosijoon\\desktop\\swenproj\\monstercardtrading_swen_if23b185\\server\\http\\streamtracer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|solutionrelative:server\\http\\streamtracer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|c:\\users\\mosijoon\\desktop\\swenproj\\monstercardtrading_swen_if23b185\\server\\http\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|solutionrelative:server\\http\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|c:\\users\\mosijoon\\desktop\\swenproj\\monstercardtrading_swen_if23b185\\server\\http\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|solutionrelative:server\\http\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|c:\\users\\mosijoon\\desktop\\swenproj\\monstercardtrading_swen_if23b185\\server\\http\\endpoint\\userendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|solutionrelative:server\\http\\endpoint\\userendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|c:\\users\\mosijoon\\desktop\\swenproj\\monstercardtrading_swen_if23b185\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|solutionrelative:models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|c:\\users\\mosijoon\\desktop\\swenproj\\monstercardtrading_swen_if23b185\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|c:\\users\\mosijoon\\desktop\\swenproj\\monstercardtrading_swen_if23b185\\server\\http\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|solutionrelative:server\\http\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|c:\\users\\mosijoon\\desktop\\swenproj\\monstercardtrading_swen_if23b185\\monstertradingcards.exercise.curl.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AB30C329-0588-4D35-A419-C7BC18F5F6A3}|MonsterCardTrading_SWEN_if23b185.csproj|solutionrelative:monstertradingcards.exercise.curl.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StreamTracer.cs",
+              "DocumentMoniker": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Server\\Http\\StreamTracer.cs",
+              "RelativeDocumentMoniker": "Server\\Http\\StreamTracer.cs",
+              "ToolTip": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Server\\Http\\StreamTracer.cs",
+              "RelativeToolTip": "Server\\Http\\StreamTracer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:23:57.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpellCard.cs",
+              "DocumentMoniker": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Models\\SpellCard.cs",
+              "RelativeDocumentMoniker": "Models\\SpellCard.cs",
+              "ToolTip": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Models\\SpellCard.cs",
+              "RelativeToolTip": "Models\\SpellCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:09:50.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Server\\Http\\Endpoint\\UserEndpoint.cs",
+              "RelativeDocumentMoniker": "Server\\Http\\Endpoint\\UserEndpoint.cs",
+              "ToolTip": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Server\\Http\\Endpoint\\UserEndpoint.cs",
+              "RelativeToolTip": "Server\\Http\\Endpoint\\UserEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:01:46.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MonsterTradingCards.exercise.curl.bat",
+              "DocumentMoniker": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\MonsterTradingCards.exercise.curl.bat",
+              "RelativeDocumentMoniker": "MonsterTradingCards.exercise.curl.bat",
+              "ToolTip": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\MonsterTradingCards.exercise.curl.bat",
+              "RelativeToolTip": "MonsterTradingCards.exercise.curl.bat",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGySURBVDhPzZTdK0NxGMe/c4G4MieywuzFbDJvo\u002BaCG3dLyZ1SCqWolbysXeDGrQsvCRFJufEviAvbaOWlbHndpk1bm\u002BOGxF4cP\u002BunnDqHxS586tf5Pef59uk5nXqQVjiOo7f0IbFaRr1ELaf1H5H4Mn4jM7W1Cz6TLqtlhItGo2k5Hy4yoTiBUAQ7tiMEww/0zc8ICp9fXuE4duPGd4fHpye4rzywOU8RZn8WCwpdl16EIyze3hIw6LVIJOK4DQThvwvRhDiCwhqtCvF4HCp5McpKZNAoSkkdQ5VWTRPiiEzoQSwWheviGleeW5y6L0kdw57dSRPiCAqLChkUFTBJye7\u002BIRJk2gImD8b6apoQR1BYyEjRYqyHnnxidlYmdBoFWpub4PX7MWgZx8mZC/csS9N8BIWflBbL0NlhgkZZhrmVdSyubaKyXIWZhSUsr27QFJ9vhV/RqZVJ2UBvN/k5FVCrFbTDJ2Wh\u002B/wCh04npmfnYXcckOOgHT4pC3u6OmHu74ODyMaGzJianKAdPikLmXwpDHW12N7aRGODAbm5ObTDh6yvYbK\u002BJGlaX5yPXv4twDtWh9oGyYbOwgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-09T17:01:21.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Server\\Http\\Request.cs",
+              "RelativeDocumentMoniker": "Server\\Http\\Request.cs",
+              "ToolTip": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Server\\Http\\Request.cs",
+              "RelativeToolTip": "Server\\Http\\Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:57:20.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Server\\Http\\Response.cs",
+              "RelativeDocumentMoniker": "Server\\Http\\Response.cs",
+              "ToolTip": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Server\\Http\\Response.cs",
+              "RelativeToolTip": "Server\\Http\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:57:16.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HttpServer.cs",
+              "DocumentMoniker": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Server\\Http\\HttpServer.cs",
+              "RelativeDocumentMoniker": "Server\\Http\\HttpServer.cs",
+              "ToolTip": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Server\\Http\\HttpServer.cs",
+              "RelativeToolTip": "Server\\Http\\HttpServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:56:54.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:50:21.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Models\\Stack.cs",
+              "RelativeDocumentMoniker": "Models\\Stack.cs",
+              "ToolTip": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Models\\Stack.cs",
+              "RelativeToolTip": "Models\\Stack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:50:02.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "Models\\Card.cs",
+              "ToolTip": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Models\\Card.cs",
+              "RelativeToolTip": "Models\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:48:31.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonsterCard.cs",
+              "DocumentMoniker": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Models\\MonsterCard.cs",
+              "RelativeDocumentMoniker": "Models\\MonsterCard.cs",
+              "ToolTip": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Models\\MonsterCard.cs",
+              "RelativeToolTip": "Models\\MonsterCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:48:23.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Models\\Deck.cs",
+              "RelativeDocumentMoniker": "Models\\Deck.cs",
+              "ToolTip": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Models\\Deck.cs",
+              "RelativeToolTip": "Models\\Deck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:47:56.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MosiJoon\\Desktop\\SWENproj\\MonsterCardTrading_SWEN_if23b185\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:45:44.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
